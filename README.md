@@ -60,5 +60,5 @@ it464a-gitsample/
 ---
 
 <p align="center">
-    Made with ❤️ by Ekachai Kanya
+    Made with ❤️ by Pannawach Wichitskunluk 1660702232 05/02/2026
 </p>
